@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="linkedin.com/in/karim-arfaat-19b52732a" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/karim-arfaat-19b52732a/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:karimarafaat18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -68,6 +68,6 @@ Dimensional Modeling (Star Schema) | Data Warehousing | ETL/ELT | KPI Design
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=حط_اليوزر_نيم_بتاعك_هنا&show_icons=true&theme=radical&count_private=true" alt="Karim Arafat's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=حط_اليوزر_نيم_بتاعك_هنا&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karimarafaat-web&show_icons=true&theme=radical&count_private=true" alt="Karim Arafat's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimarafaat-web&layout=compact&theme=radical" alt="Top Langs" />
 </p>
