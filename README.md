@@ -64,10 +64,3 @@ Dimensional Modeling (Star Schema) | Data Warehousing | ETL/ELT | KPI Design
 #### 🚘 Graduation Project: Intelligent Vehicle Safety System (Grade A+)
 * **Overview:** Developed an intelligent vehicle safety and management system leveraging machine learning and V2X communication technology.
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karimarafaat-web&show_icons=true&theme=radical&count_private=true" alt="Karim Arafat's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimarafaat-web&layout=compact&theme=radical" alt="Top Langs" />
-</p>
